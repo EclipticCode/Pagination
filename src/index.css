@@ -1,0 +1,25 @@
+.change{
+   margin-left: 450px;
+   margin-top: 100px;
+}
+
+.pagination{
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    height: 65px;
+    margin-top: 100px;
+    
+}
+.button{
+    border: 1px solid lightgray;
+    color: #347BB2;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+.button:focus{
+    background-color: #347BB2;
+    color: white;
+}
